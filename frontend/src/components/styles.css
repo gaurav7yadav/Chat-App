@@ -1,0 +1,14 @@
+.messages {
+  display: flex;
+  flex-direction: column;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}
+
+.iconButton{
+  display: flex;
+}
+
+.bg-img{
+  background-image: url("./bg.webp");
+}
